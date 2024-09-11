@@ -4,3 +4,5 @@ examples/MiniJson
 htcc/htcc
 *.html.hpp
 *.o
+.cache
+compile_commands.json
